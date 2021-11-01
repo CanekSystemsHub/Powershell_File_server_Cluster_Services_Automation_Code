@@ -1,0 +1,16 @@
+0 Cluster Name : CHSMCNS00991
+1 Node 1 : chtefss00991
+2 Node 2 : chtefss00992
+3 Main Static IP : 10.111.4.24
+4 Second Static IP : 10.111.4.9
+5 Third Static IP : 10.111.4.10
+6 Forth Static IP : 10.111.4.19
+7 Fifth Static IP : 10.111.4.20
+8 TargetPortal IP : 10.111.7.16
+9 ISCSIIP1 IP : 10.111.7.56
+10 ISCSIIP2 IP : 10.111.7.57
+11 Priv1 IP : 10.111.6.54
+12 Priv2 IP : 10.111.6.55
+13 CHAP_Scr : 1nfr443v3r123456
+14 SAN IQN 1 : iqn.1986-03.com.sun:02:chs501-san-800.infra.taleocloud.net
+15 SAN IQN 2 : iqn.1986-03.com.sun:02:chs501-san-800.infra.taleocloud.net
